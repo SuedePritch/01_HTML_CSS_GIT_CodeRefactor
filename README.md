@@ -7,5 +7,5 @@
 
 
 Live Site
-https://suedepritch.github.io/01_HTML_CSS_GIT_CodeRefactor/
+https://suedepritch.github.io/CodeRefactor/
 
