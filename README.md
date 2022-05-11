@@ -7,5 +7,5 @@
 
 
 Live Site
-https://suedepritch.github.io/crazy_purple_tadpole/
+https://suedepritch.github.io/crazy_purple_tadpoles/
 
