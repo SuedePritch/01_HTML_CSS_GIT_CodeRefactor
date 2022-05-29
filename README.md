@@ -1,5 +1,4 @@
 # CodeRefactor
-## Module 1 Challenge
 
 ### Code Refactoring, semantic html, accessibility and SEO upgrades
 
